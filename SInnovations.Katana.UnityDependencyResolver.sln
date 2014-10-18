@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C3CFFC
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1779912F-0DF0-4DF9-A6CB-878203A2112B}"
 	ProjectSection(SolutionItems) = preProject
-		build.bat = build.bat
+		build.bat.ignore = build.bat.ignore
 	EndProjectSection
 EndProject
 Global
