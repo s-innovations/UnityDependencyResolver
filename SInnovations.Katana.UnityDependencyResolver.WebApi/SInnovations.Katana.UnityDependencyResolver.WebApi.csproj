@@ -78,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="SInnovations.Katana.UnityDependencyResolver.WebApi.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SInnovations.Katana.UnityDependencyResolver\SInnovations.Katana.UnityDependencyResolver.csproj">
